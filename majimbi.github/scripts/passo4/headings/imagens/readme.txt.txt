@@ -1,1 +1,0 @@
-este read me só serve para preencher a pasta
